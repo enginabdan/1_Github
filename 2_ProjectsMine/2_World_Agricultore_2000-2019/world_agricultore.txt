@@ -1,0 +1,8 @@
+Hypotheses are put forward that the effect of cattle breeding on global warming is far beyond what is known.
+In addition, those who raised the same issue also began to examine the issue of famine.
+The subject intrigued me and I wanted to examine it.
+I divided my work into 3 parts;
+   1. First Part; Exploratory Data Analysis.
+   2. Second Part; Data Visualization.
+   3. Third Part; Machine Learning Algorithm
+I hope you enjoy.

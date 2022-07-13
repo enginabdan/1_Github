@@ -1,0 +1,53 @@
+wa_all,wa_country,wa_org,wp_all,wp_country,wp_org,years,abbrv,meaning
+World,Australia,World,World,Australia,World,2000,QP,Production
+OECD,Canada,OECD,Organisation for Economic Co-operation and Development (OECD),Canada,Organisation for Economic Co-operation and Development (OECD),2001,IM,Imports
+Developed,Chile,Developed,More developed regions,Chile,More developed regions,2002,QC,Consumption
+Developing,Israel,Developing,ESCAP: ADB Developing member countries (DMCs),Israel,ESCAP: ADB Developing member countries (DMCs),2003,ST,Ending_stocks
+Least Developed Countries,Japan,Least Developed Countries,ESCAP: Least Developed Countries (LDCs),Japan,ESCAP: Least Developed Countries (LDCs),2004,EX,Exports
+Australia,Korea,European Union-27,Australia,Dem. People's Republic of Korea,European Union (EU: 28),2005,NT,Trade_balance
+Canada,Mexico,EUROPE,Canada,Mexico,WHO: European Region (EURO),2006,AH,Area_harvested
+Chile,New Zealand,AFRICA,Chile,New Zealand,Africa,2007,FE,Feed
+European Union-27,Turkey,LATIN AMERICA AND CARIBBEAN,European Union (EU: 28),Turkey,Latin America and the Caribbean,2008,FO,Food
+Israel,United States,ASIA,Israel,United States of America,Asia,2009,BF,Biofuel_use
+Japan,Kazakhstan,,Japan,Kazakhstan,,2010,OU,Other_use
+Korea,Russia,,Dem. People's Republic of Korea,Russian Federation,,2011,YLD,Yield
+Mexico,Ukraine,,Mexico,Ukraine,,2012,XP,World_Price
+New Zealand,Algeria,,New Zealand,Algeria,,2013,PC,Consumption_per_cap
+Turkey,Egypt,,Turkey,Egypt,,2014,PP,Producer_price
+United States,Ethiopia,,United States of America,Ethiopia,,2015,CR,Crush
+EUROPE,Ghana,,WHO: European Region (EURO),Ghana,,2016,CI,Cow_inventory
+Kazakhstan,Mozambique,,Kazakhstan,Mozambique,,2017,QP__BME,Ethanol_Bio
+Russia,Nigeria,,Russian Federation,Nigeria,,2018,QP__BMD,Biodiesel_Bio
+Ukraine,Sub Saharan Africa,,Ukraine,Sub-Saharan Africa,,2019,,
+AFRICA,Republic of South Africa,,Africa,South Africa,,,,
+Algeria,Sudan,,Algeria,Sudan,,,,
+Egypt,Tanzania,,Egypt,United Republic of Tanzania,,,,
+Ethiopia,Zambia,,Ethiopia,Zambia,,,,
+Ghana,Argentina,,Ghana,Argentina,,,,
+Mozambique,Brazil,,Mozambique,Brazil,,,,
+Nigeria,Colombia,,Nigeria,Colombia,,,,
+Sub Saharan Africa,Haiti,,Sub-Saharan Africa,Haiti,,,,
+Republic of South Africa,Peru,,South Africa,Peru,,,,
+Sudan,Paraguay,,Sudan,Paraguay,,,,
+Tanzania,Uruguay,,United Republic of Tanzania,Uruguay,,,,
+Zambia,Bangladesh,,Zambia,Bangladesh,,,,
+LATIN AMERICA AND CARIBBEAN,China,,Latin America and the Caribbean,China,,,,
+Argentina,India,,Argentina,India,,,,
+Brazil,Indonesia,,Brazil,Indonesia,,,,
+Colombia,Iran,,Colombia,Iran (Islamic Republic of),,,,
+Haiti,Malaysia,,Haiti,Malaysia,,,,
+Peru,Pakistan,,Peru,Pakistan,,,,
+Paraguay,Philippines,,Paraguay,Philippines,,,,
+Uruguay,Saudi Arabia,,Uruguay,Saudi Arabia,,,,
+ASIA,Thailand,,Asia,Thailand,,,,
+Bangladesh,,,Bangladesh,,,,,
+China,,,China,,,,,
+India,,,India,,,,,
+Indonesia,,,Indonesia,,,,,
+Iran,,,Iran (Islamic Republic of),,,,,
+Malaysia,,,Malaysia,,,,,
+Pakistan,,,Pakistan,,,,,
+Philippines,,,Philippines,,,,,
+Saudi Arabia,,,Saudi Arabia,,,,,
+Thailand,,,Thailand,,,,,
+VietNam,,,Viet Nam,,,,,
