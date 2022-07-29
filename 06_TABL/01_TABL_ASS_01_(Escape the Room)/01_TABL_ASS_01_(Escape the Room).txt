@@ -1,0 +1,13 @@
+01_TABL_ASS_01_(Escape the Room)
+
+In this assignment, you will be guided to find four passwords through viewing and interacting with data visualizations in Tableau.
+Here are the instructions to complete this assignment in detail:
+Access the Tableau Escape Room dashboard on Tableau public clicking the button below:
+Follow the instructions and write down four passwords in the format below and submit it.
+
+https://public.tableau.com/app/profile/mark.bradbourne/viz/EscapeRoom/CanYouEscape
+
+Password1: HELPFUL
+Password2: INTERACTIVE
+Password3: INFORMATIVE
+Password4: DATA

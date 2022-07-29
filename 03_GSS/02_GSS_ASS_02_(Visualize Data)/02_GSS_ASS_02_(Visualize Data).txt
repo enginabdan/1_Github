@@ -1,0 +1,15 @@
+gss_assigment2_chart
+
+Let's visualize popular language data. But this time in Google Sheets!
+
+First, you have to download the zipped CSV file then open it with GSS.
+
+Then use some functions to prepare data for getting the chart above (x-axis = language names, y-axis = their counts).
+
+The dataset may force the limits of both your computer and Google Sheets.
+
+If you have trouble studying, you can only use the first 10000 rows.
+
+When you finish your study, please submit the Google Sheets file link to your answer. (Do not forget to give appropriate permissions)
+
+Tip: A text and the FLATTEN function may help you a lot.
